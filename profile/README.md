@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to **LumenWorks** — a small project studio for building thoughtful, practical software.
+Welcome to **Lumen Studio** — a small project studio for building thoughtful, practical software.
 
 ### What you’ll find here
 - Small apps, tools, and libraries
@@ -30,4 +30,4 @@ If you’d like to help:
 Open an issue in the repo you’re working with — it’s the fastest way to start a conversation.
 
 —  
-*Bright ideas. Clean builds.*
+*Beautiful software. Brilliantly built.*

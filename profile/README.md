@@ -2,7 +2,7 @@
 
 *Beautiful software. Brilliantly built.*
 
-Lumen Studio is a small project studio for building thoughtful, practical software. Everything here is public, documented, and open to issues and pull requests.
+Lumen Studio is a small project studio for building thoughtful, practical software. The projects listed here are public and open to issues and pull requests.
 
 ## What we build
 

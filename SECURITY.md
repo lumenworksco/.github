@@ -16,4 +16,4 @@ We'll acknowledge reports and keep you updated as we investigate.
 
 ## Scope
 
-This policy covers repositories in the `lumenworksco` organization. Most projects are early-stage and don't have formal supported-version lists. Fixes land on `main` unless a repo states otherwise.
+This policy covers repositories in the `lumenworksco` organization unless a repo defines its own `SECURITY.md`.

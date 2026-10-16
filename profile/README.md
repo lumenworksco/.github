@@ -1,33 +1,41 @@
-## Hi there 👋
+# Lumen Studio
 
-Welcome to **Lumen Studio** — a small project studio for building thoughtful, practical software.
-
-### What you’ll find here
-- Small apps, tools, and libraries
-- Experiments that might grow into real projects
-- Clean, well-documented repos you can actually use
-
-### How we work
-We try to keep things:
-- **Simple** (clear scope, minimal moving parts)
-- **Well-made** (tests and docs where it matters)
-- **Friendly** (issues and PRs are welcome)
-
-### Contributing
-If you’d like to help:
-1. Check a repo’s **Issues** tab for open tasks
-2. Open a PR with a clear description of *what* changed and *why*
-3. Keep changes small and focused
-
-(Each repo may have its own `CONTRIBUTING.md` with specifics.)
-
-### Useful links
-- 📌 Start here: browse pinned repositories
-- 🧭 Roadmaps & notes: check `README.md` files in each repo
-- 🔐 Security: please use `SECURITY.md` in the relevant repo (if present)
-
-### Contact
-Open an issue in the repo you’re working with — it’s the fastest way to start a conversation.
-
-—  
 *Beautiful software. Brilliantly built.*
+
+Lumen Studio is a small project studio for building thoughtful, practical software. Everything here is public, documented, and open to issues and pull requests.
+
+## What we build
+
+- **macOS apps** (Swift): menu bar utilities and a native browser.
+- **Android apps** (Kotlin): navigation and route planning.
+- **Trading and finance tooling** (Python, Rust): autonomous trading, backtesting, and live execution.
+- **ML and NLP** (Python): multilingual sentiment analysis and on-device wellbeing tools.
+- **Web projects** (TypeScript, HTML, Java): portfolios, event discovery, and studio sites.
+
+## Featured projects
+
+| Project | Description |
+| --- | --- |
+| [Tokn](https://github.com/lumenworksco/Tokn) | Claude.ai session and weekly usage in your macOS menu bar. |
+| [-Feather](https://github.com/lumenworksco/-Feather) | A small, native macOS browser on WebKit: sidebar and pinned tabs, a memory-conscious tab lifecycle, and sessions built never to lose your tabs. Early alpha. |
+| [FocusTimer](https://github.com/lumenworksco/FocusTimer) | A beautiful, minimal Pomodoro timer for the macOS menu bar. Free & open source. |
+| [Piste](https://github.com/lumenworksco/Piste-Formerly-Waypoint) | Formerly Waypoint. An Android app that helps you plan routes, save key locations, and stay on track wherever you go. |
+| [CalmCampus](https://github.com/lumenworksco/CalmCampus) | Privacy-first burnout prevention app for university students, using passive behavioral monitoring and evidence-based micro-interventions to support wellbeing entirely on-device. |
+| [Velox](https://github.com/lumenworksco/Velox) | Production-grade autonomous equity trading bot built on Alpaca. 6 diversified strategies, 18-stage signal pipeline, ML ensemble gating, VaR monitoring, and a full Docker stack with Prometheus/Grafana. |
+| [AlphaFlow](https://github.com/lumenworksco/AlphaFlow) | Algorithmic trading app for backtesting and live execution. |
+| [NLP](https://github.com/lumenworksco/NLP) | A multilingual sentiment analysis project built with BERT, capable of understanding and classifying text across multiple languages. |
+| [Eventify](https://github.com/lumenworksco/Eventify) | A website that helps you discover events happening near you. |
+| [Resume](https://github.com/lumenworksco/Resume) | A lightweight LaTeX resume builder that helps you create clean, professional CVs with ready-to-use templates. |
+
+More public repos, not yet described: [Leafy](https://github.com/lumenworksco/Leafy), [Go-no-Michi](https://github.com/lumenworksco/Go-no-Michi), [Nihongo](https://github.com/lumenworksco/Nihongo), [HabitAlign](https://github.com/lumenworksco/HabitAlign), [J.A.R.V.I.S](https://github.com/lumenworksco/J.A.R.V.I.S), [Trading-Algorithm](https://github.com/lumenworksco/Trading-Algorithm), [LangChain](https://github.com/lumenworksco/LangChain).
+
+## Contributing
+
+Issues and pull requests are welcome. See [CONTRIBUTING.md](https://github.com/lumenworksco/.github/blob/main/CONTRIBUTING.md) for how we work. Individual repos may add their own guidelines.
+
+## Contact
+
+- Questions and bugs: open an issue in the relevant repo. See [SUPPORT.md](https://github.com/lumenworksco/.github/blob/main/SUPPORT.md).
+- Security reports: see [SECURITY.md](https://github.com/lumenworksco/.github/blob/main/SECURITY.md).
+- Website: <!-- TODO: add website -->
+- Email: <!-- TODO: add contact email -->

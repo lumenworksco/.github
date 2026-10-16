@@ -8,11 +8,11 @@ Please report vulnerabilities privately. Don't open a public issue, pull request
 2. Click **Report a vulnerability** (GitHub private vulnerability reporting).
 3. Describe the issue, the affected version or commit, and steps to reproduce.
 
-If the repository doesn't show that option, email <!-- TODO: add security contact email --> instead, with the repository name and the same details.
+If the repository doesn't show that option, email [security@braunf.com](mailto:security@braunf.com) instead, with the repository name and the same details.
 
 ## What to expect
 
-We'll acknowledge reports and keep you updated as we investigate. <!-- TODO: add response-time commitment, if any -->
+We'll acknowledge reports and keep you updated as we investigate.
 
 ## Scope
 

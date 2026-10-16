@@ -37,5 +37,5 @@ Issues and pull requests are welcome. See [CONTRIBUTING.md](https://github.com/l
 
 - Questions and bugs: open an issue in the relevant repo. See [SUPPORT.md](https://github.com/lumenworksco/.github/blob/main/SUPPORT.md).
 - Security reports: see [SECURITY.md](https://github.com/lumenworksco/.github/blob/main/SECURITY.md).
-- Website: <!-- TODO: add website -->
-- Email: <!-- TODO: add contact email -->
+- Website: [lumen.braunf.com](https://lumen.braunf.com)
+- Email: [contact@braunf.com](mailto:contact@braunf.com)

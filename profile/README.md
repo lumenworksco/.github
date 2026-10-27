@@ -2,40 +2,43 @@
 
 *Beautiful software. Brilliantly built.*
 
-Lumen Studio is a small project studio for building thoughtful, practical software. The projects listed here are public and open to issues and pull requests.
+Lumen Studio is my personal projects portfolio: apps, tools and AI systems I build on my own, from idea to release. The projects listed here are public and open to issues and pull requests.
 
-## What we build
+**Find me:** [projects.braunf.com](https://projects.braunf.com) for the projects · [research.braunf.com](https://research.braunf.com) for research and hardware · [braunf.com](https://braunf.com) for everything else.
 
-- **macOS apps** (Swift): menu bar utilities and a native browser.
+## What I build
+
+- **macOS apps** (Swift): a menu bar usage tracker and a native browser.
 - **Android apps** (Kotlin): navigation and route planning.
-- **Trading and finance tooling** (Python, Rust): autonomous trading, backtesting, and live execution.
-- **ML and NLP** (Python): multilingual sentiment analysis and on-device wellbeing tools.
-- **Web projects** (TypeScript, HTML, Java): portfolios, event discovery, and studio sites.
+- **Trading and finance tooling** (Python): an autonomous equity trading system.
+- **Wellness and ML** (Swift, Python): on-device wellbeing tools and datasets for model training.
+- **Web apps** (TypeScript): offline-first learning and game PWAs, plus portfolio sites.
 
 ## Featured projects
 
 | Project | Description |
 | --- | --- |
-| [Tokn](https://github.com/lumenworksco/Tokn) | Claude.ai session and weekly usage in your macOS menu bar. |
-| [-Feather](https://github.com/lumenworksco/-Feather) | A small, native macOS browser on WebKit: sidebar and pinned tabs, a memory-conscious tab lifecycle, and sessions built never to lose your tabs. Early alpha. |
-| [FocusTimer](https://github.com/lumenworksco/FocusTimer) | A beautiful, minimal Pomodoro timer for the macOS menu bar. Free & open source. |
-| [Piste](https://github.com/lumenworksco/Piste-Formerly-Waypoint) | Formerly Waypoint. An Android app that helps you plan routes, save key locations, and stay on track wherever you go. |
-| [CalmCampus](https://github.com/lumenworksco/CalmCampus) | Privacy-first burnout prevention app for university students, using passive behavioral monitoring and evidence-based micro-interventions to support wellbeing entirely on-device. |
-| [Velox](https://github.com/lumenworksco/Velox) | Production-grade autonomous equity trading bot built on Alpaca. 6 diversified strategies, 18-stage signal pipeline, ML ensemble gating, VaR monitoring, and a full Docker stack with Prometheus/Grafana. |
-| [AlphaFlow](https://github.com/lumenworksco/AlphaFlow) | Algorithmic trading app for backtesting and live execution. |
-| [NLP](https://github.com/lumenworksco/NLP) | A multilingual sentiment analysis project built with BERT, capable of understanding and classifying text across multiple languages. |
-| [Eventify](https://github.com/lumenworksco/Eventify) | A website that helps you discover events happening near you. |
-| [Resume](https://github.com/lumenworksco/Resume) | A lightweight LaTeX resume builder that helps you create clean, professional CVs with ready-to-use templates. |
+| [Tokn](https://github.com/lumenworksco/-Tokn) | Claude.ai session and weekly usage in your macOS menu bar. |
+| [Feather](https://github.com/lumenworksco/-Feather) | A small, native macOS browser on WebKit: sidebar and pinned tabs, a memory-conscious tab lifecycle, and sessions built never to lose your tabs. Early alpha. |
+| [Velox](https://github.com/lumenworksco/-Velox) | Formerly AlphaFlow. A terminal-native autonomous equity trading system on Alpaca: 6 strategies, an 18-stage signal pipeline, ML gating, VaR, a circuit breaker and a live dashboard. |
+| [CalmCampus](https://github.com/lumenworksco/CalmCampus) | Privacy-first wellness companion for university students: on-device stress signals, an adaptive daily check-in and short evidence-based exercises. SwiftUI, no cloud. |
+| [Piste](https://github.com/iPwnds/Piste-Formerly-Waypoint) | Formerly Waypoint. An Android app that helps you plan routes, save key locations and stay on track. |
+| [FocusTimer](https://github.com/iPwnds/FocusTimer) | A minimal Pomodoro timer for the macOS menu bar. Free and open source. |
+| [Nihongo](https://github.com/lumenworksco/-_Nihongo) | An offline-first Japanese (JLPT N5) learning PWA with FSRS spaced repetition, streaks, mock exams and sync. |
+| [Go-no-Michi](https://github.com/lumenworksco/-_Go-no-Michi) | A Go (囲碁) PWA with a built-in MCTS AI, tsumego puzzles, SGF review and a hiragana/katakana-only Japanese interface. |
+| [Project Silkworm](https://github.com/lumenworksco/-Project-Silkworm) | A pipeline that generates a growing DPO preference dataset with the Hugging Face Inference API. |
+| [DataCamp](https://github.com/lumenworksco/_DataCamp) | My DataCamp credentials, hosted at [data.braunf.com](https://data.braunf.com). |
+| [Portfolio](https://github.com/lumenworksco/_Portfolio) | The braunf.com hub: a Pokémon-style start menu and a WebGL glass orb. Next.js, Tailwind, Framer Motion. |
+| [Lumen Studio site](https://github.com/lumenworksco/_Lumen-Studio) | The static site behind [projects.braunf.com](https://projects.braunf.com). |
 
-More public repos, not yet described: [Leafy](https://github.com/lumenworksco/Leafy), [Go-no-Michi](https://github.com/lumenworksco/Go-no-Michi), [Nihongo](https://github.com/lumenworksco/Nihongo), [HabitAlign](https://github.com/lumenworksco/HabitAlign), [J.A.R.V.I.S](https://github.com/lumenworksco/J.A.R.V.I.S), [Trading-Algorithm](https://github.com/lumenworksco/Trading-Algorithm), [LangChain](https://github.com/lumenworksco/LangChain).
+More public projects live on my personal account: [Leafy](https://github.com/iPwnds/Leafy) (a plant care app), [NLP](https://github.com/iPwnds/NLP) (multilingual sentiment analysis with BERT), [Eventify](https://github.com/iPwnds/Eventify), [HabitAlign](https://github.com/iPwnds/HabitAlign), [J.A.R.V.I.S](https://github.com/iPwnds/J.A.R.V.I.S), [Trading-Algorithm](https://github.com/iPwnds/Trading-Algorithm) and [LangChain](https://github.com/iPwnds/LangChain). My research code and ESP32 hardware are in the [Mabushi Lab](https://github.com/mabushi-lab) organisation, including [Resume](https://github.com/mabushi-lab/Resume), a LaTeX CV builder.
 
 ## Contributing
 
-Issues and pull requests are welcome. See [CONTRIBUTING.md](https://github.com/lumenworksco/.github/blob/main/CONTRIBUTING.md) for how we work. Individual repos may add their own guidelines.
+Issues and pull requests are welcome. See [CONTRIBUTING.md](https://github.com/lumenworksco/.github/blob/main/CONTRIBUTING.md) for how it works. Individual repos may add their own guidelines.
 
 ## Contact
 
 - Questions and bugs: open an issue in the relevant repo. See [SUPPORT.md](https://github.com/lumenworksco/.github/blob/main/SUPPORT.md).
 - Security reports: see [SECURITY.md](https://github.com/lumenworksco/.github/blob/main/SECURITY.md).
-- Website: [lumen.braunf.com](https://lumen.braunf.com)
-- Email: [contact@braunf.com](mailto:contact@braunf.com)
+- Website: [projects.braunf.com](https://projects.braunf.com)

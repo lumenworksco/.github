@@ -12,7 +12,11 @@ If the repository doesn't show that option, email [security@braunf.com](mailto:s
 
 ## What to expect
 
-We'll acknowledge reports and keep you updated as we investigate.
+I'll acknowledge your report and keep you updated while I investigate. Please give me reasonable time to fix the issue before disclosing it publicly.
+
+## Supported versions
+
+Fixes go into the latest release, or the default branch where a repository has no releases.
 
 ## Scope
 

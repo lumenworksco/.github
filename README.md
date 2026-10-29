@@ -4,4 +4,6 @@ This is the `lumenworksco` organization's special `.github` repository for Lumen
 
 - `profile/README.md`: the org landing page shown on github.com/lumenworksco.
 - `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SECURITY.md`, `SUPPORT.md`: default community files.
-- `.github/ISSUE_TEMPLATE/` and `.github/PULL_REQUEST_TEMPLATE.md`: default issue forms and PR template.
+- `.github/ISSUE_TEMPLATE/` (bug report, feature request, question) and `.github/PULL_REQUEST_TEMPLATE.md`: default issue forms and PR template.
+- `.github/CODEOWNERS`: review ownership for this repository.
+- `LICENSE`: MIT.

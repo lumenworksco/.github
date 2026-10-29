@@ -1,16 +1,16 @@
 # Contributing
 
-Thanks for helping out. This file is the default for every Lumen Studio repo that doesn't have its own `CONTRIBUTING.md`. Where a repo has one, follow that instead.
+Thanks for helping out. This file is the default for every repository in the `lumenworksco` organization that doesn't have its own `CONTRIBUTING.md`. Where a repo has one, follow that instead.
 
 ## Opening an issue
 
 - Search existing issues first.
-- Use the issue templates. For bugs, include steps to reproduce, what you expected, what happened, and your environment.
+- Use the issue templates (bug report, feature request or question). For bugs, include steps to reproduce, what you expected, what happened, and your environment.
 - One problem or request per issue.
 
 ## Opening a pull request
 
-1. For anything non-trivial, open an issue first so we can agree on the approach.
+1. For anything non-trivial, open an issue first so we can agree on the approach first.
 2. Fork the repo (or branch, if you have write access) and make your change.
 3. Keep the PR small and focused. Explain *what* changed and *why*.
 4. Add or update tests and docs where relevant.

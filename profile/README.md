@@ -16,20 +16,20 @@ Lumen Studio is my personal projects portfolio: apps, tools and AI systems I bui
 
 ## Featured projects
 
-| Project | Description |
-| --- | --- |
-| [Tokn](https://github.com/lumenworksco/-Tokn) | Claude.ai session and weekly usage in your macOS menu bar. |
-| [Feather](https://github.com/lumenworksco/-Feather) | A small, native macOS browser on WebKit: sidebar and pinned tabs, a memory-conscious tab lifecycle, and sessions built never to lose your tabs. Early alpha. |
-| [Velox](https://github.com/lumenworksco/-Velox) | Formerly AlphaFlow. A terminal-native autonomous equity trading system on Alpaca: 6 strategies, an 18-stage signal pipeline, ML gating, VaR, a circuit breaker and a live dashboard. |
-| [CalmCampus](https://github.com/lumenworksco/CalmCampus) | Privacy-first wellness companion for university students: on-device stress signals, an adaptive daily check-in and short evidence-based exercises. SwiftUI, no cloud. |
-| [Piste](https://github.com/iPwnds/Piste-Formerly-Waypoint) | Formerly Waypoint. An Android app that helps you plan routes, save key locations and stay on track. |
-| [FocusTimer](https://github.com/iPwnds/FocusTimer) | A minimal Pomodoro timer for the macOS menu bar. Free and open source. |
-| [Nihongo](https://github.com/lumenworksco/-_Nihongo) | An offline-first Japanese (JLPT N5) learning PWA with FSRS spaced repetition, streaks, mock exams and sync. |
-| [Go-no-Michi](https://github.com/lumenworksco/-_Go-no-Michi) | A Go (囲碁) PWA with a built-in MCTS AI, tsumego puzzles, SGF review and a hiragana/katakana-only Japanese interface. |
-| [Project Silkworm](https://github.com/lumenworksco/-Project-Silkworm) | A pipeline that generates a growing DPO preference dataset with the Hugging Face Inference API. |
-| [DataCamp](https://github.com/lumenworksco/_DataCamp) | My DataCamp credentials, hosted at [data.braunf.com](https://data.braunf.com). |
-| [Portfolio](https://github.com/lumenworksco/_Portfolio) | The braunf.com hub: a Pokémon-style start menu and a WebGL glass orb. Next.js, Tailwind, Framer Motion. |
-| [Lumen Studio site](https://github.com/lumenworksco/_Lumen-Studio) | The static site behind [projects.braunf.com](https://projects.braunf.com). |
+| Project | Description | Live |
+| --- | --- | --- |
+| [Tokn](https://github.com/lumenworksco/-Tokn) | Claude.ai session and weekly usage in your macOS menu bar. | [tokn.braunf.com](https://tokn.braunf.com) |
+| [Feather](https://github.com/lumenworksco/-Feather) | A small, native macOS browser on WebKit: sidebar and pinned tabs, a memory-conscious tab lifecycle, and sessions built never to lose your tabs. Early alpha. | [feather.braunf.com](https://feather.braunf.com) |
+| [Velox](https://github.com/lumenworksco/-Velox) | Formerly AlphaFlow. A terminal-native autonomous equity trading system on Alpaca: 6 strategies, an 18-stage signal pipeline, ML gating, VaR, a circuit breaker and a live dashboard. | [velox.braunf.com](https://velox.braunf.com) |
+| [CalmCampus](https://github.com/lumenworksco/CalmCampus) | Privacy-first wellness companion for university students: on-device stress signals, an adaptive daily check-in and short evidence-based exercises. SwiftUI, no cloud. | [cc.braunf.com](https://cc.braunf.com) |
+| [Piste](https://github.com/iPwnds/Piste-Formerly-Waypoint) | Formerly Waypoint. An Android app that helps you plan routes, save key locations and stay on track. | – |
+| [FocusTimer](https://github.com/iPwnds/FocusTimer) | A minimal Pomodoro timer for the macOS menu bar. Free and open source. | – |
+| [Nihongo](https://github.com/lumenworksco/-_Nihongo) | An offline-first Japanese (JLPT N5) learning PWA with FSRS spaced repetition, streaks, mock exams and sync. | [nihongo.braunf.com](https://nihongo.braunf.com) |
+| [Go-no-Michi](https://github.com/lumenworksco/-_Go-no-Michi) | A Go (囲碁) PWA with a built-in MCTS AI, tsumego puzzles, SGF review and a hiragana/katakana-only Japanese interface. | [go.braunf.com](https://go.braunf.com) |
+| [Project Silkworm](https://github.com/lumenworksco/-Project-Silkworm) | A pipeline that generates a growing DPO preference dataset with the Hugging Face Inference API. | [silk.braunf.com](https://silk.braunf.com) |
+| [DataCamp](https://github.com/lumenworksco/_DataCamp) | My DataCamp credentials. | [data.braunf.com](https://data.braunf.com) |
+| [Portfolio](https://github.com/lumenworksco/_Portfolio) | The braunf.com hub: a Pokémon-style start menu and a WebGL glass orb. Next.js, Tailwind, Framer Motion. | [braunf.com](https://braunf.com) |
+| [Lumen Studio site](https://github.com/lumenworksco/_Lumen-Studio) | The static site for the projects page. | [projects.braunf.com](https://projects.braunf.com) |
 
 More public projects live on my personal account: [Leafy](https://github.com/iPwnds/Leafy) (a plant care app), [NLP](https://github.com/iPwnds/NLP) (multilingual sentiment analysis with BERT), [Eventify](https://github.com/iPwnds/Eventify), [HabitAlign](https://github.com/iPwnds/HabitAlign), [J.A.R.V.I.S](https://github.com/iPwnds/J.A.R.V.I.S), [Trading-Algorithm](https://github.com/iPwnds/Trading-Algorithm) and [LangChain](https://github.com/iPwnds/LangChain). My research code and ESP32 hardware are in the [Mabushi Lab](https://github.com/mabushi-lab) organisation, including [Resume](https://github.com/mabushi-lab/Resume), a LaTeX CV builder.
 

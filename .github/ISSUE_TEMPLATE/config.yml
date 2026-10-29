@@ -3,3 +3,6 @@ contact_links:
   - name: Report a security vulnerability
     url: https://github.com/lumenworksco/.github/blob/main/SECURITY.md
     about: Report vulnerabilities privately. Don't open a public issue.
+  - name: Something else
+    url: mailto:contact@braunf.com
+    about: For anything that isn't a bug, a feature request or a question, email me.

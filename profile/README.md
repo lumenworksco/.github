@@ -12,7 +12,7 @@ Lumen Studio is my personal projects portfolio: apps, tools and AI systems I bui
 - **Android apps** (Kotlin): navigation and route planning.
 - **Trading and finance tooling** (Python): an autonomous equity trading system.
 - **Wellness and ML** (Swift, Python): on-device wellbeing tools and datasets for model training.
-- **Web apps** (TypeScript): offline-first learning and game PWAs, plus portfolio sites.
+- **Web apps** (TypeScript): offline-first learning and game PWAs, a print-ready business card, plus portfolio sites.
 
 ## Featured projects
 
@@ -26,9 +26,10 @@ Lumen Studio is my personal projects portfolio: apps, tools and AI systems I bui
 | [FocusTimer](https://github.com/iPwnds/FocusTimer) | A minimal Pomodoro timer for the macOS menu bar. Free and open source. | – |
 | [Nihongo](https://github.com/lumenworksco/-_Nihongo) | An offline-first Japanese (JLPT N5) learning PWA with FSRS spaced repetition, streaks, mock exams and sync. | [nihongo.braunf.com](https://nihongo.braunf.com) |
 | [Go-no-Michi](https://github.com/lumenworksco/-_Go-no-Michi) | A Go (囲碁) PWA with a built-in MCTS AI, tsumego puzzles, SGF review and a hiragana/katakana-only Japanese interface. | [go.braunf.com](https://go.braunf.com) |
+| [Meishi](https://github.com/lumenworksco/_Meishi) | A bilingual English/Japanese 名刺 business card in pure HTML and CSS, print-ready at 91 × 55 mm. Archived. | [meishi.braunf.com](https://meishi.braunf.com) |
 | [Project Silkworm](https://github.com/lumenworksco/-Project-Silkworm) | A pipeline that generates a growing DPO preference dataset with the Hugging Face Inference API. | [silk.braunf.com](https://silk.braunf.com) |
 | [DataCamp](https://github.com/lumenworksco/_DataCamp) | My DataCamp credentials. | [data.braunf.com](https://data.braunf.com) |
-| [Portfolio](https://github.com/lumenworksco/_Portfolio) | The braunf.com hub: a Pokémon-style start menu and a WebGL glass orb. Next.js, Tailwind, Framer Motion. | [braunf.com](https://braunf.com) |
+| [Portfolio](https://github.com/lumenworksco/_Portfolio) | The braunf.com hub: a Pokémon-style start menu, a Pokédex of achievements and a WebGL glass orb. Next.js, Tailwind, Framer Motion. | [braunf.com](https://braunf.com) |
 | [Lumen Studio site](https://github.com/lumenworksco/_Lumen-Studio) | The static site for the projects page. | [projects.braunf.com](https://projects.braunf.com) |
 
 More public projects live on my personal account: [Leafy](https://github.com/iPwnds/Leafy) (a plant care app), [NLP](https://github.com/iPwnds/NLP) (multilingual sentiment analysis with BERT), [Eventify](https://github.com/iPwnds/Eventify), [HabitAlign](https://github.com/iPwnds/HabitAlign), [J.A.R.V.I.S](https://github.com/iPwnds/J.A.R.V.I.S), [Trading-Algorithm](https://github.com/iPwnds/Trading-Algorithm) and [LangChain](https://github.com/iPwnds/LangChain). My research code and ESP32 hardware are in the [Mabushi Lab](https://github.com/mabushi-lab) organisation, including [Resume](https://github.com/mabushi-lab/Resume), a LaTeX CV builder.
